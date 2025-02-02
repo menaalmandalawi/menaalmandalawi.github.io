@@ -10,7 +10,7 @@ Hi! My name is Mena and I am a Mechanical Engineering graduate from California P
 - [View Project](projects/AM-characterization-protocol/README.md)
 
 #### Automated Polishing Mechanism
-- [View Project](projects/AM-characterization-protocol/README.md)
+- [View Project](AutomatedPolishing.pdf)
 
 #### Ductwork and Air Pollution Control System Design
 - [View Project](projects/AM-characterization-protocol/README.md)
