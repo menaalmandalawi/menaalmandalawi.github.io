@@ -1,22 +1,29 @@
 # Mena Al Mandalawi's Engineering Portfolio
 
-I am a Mechanical Engineering graduate from California Polytechnic University, Pomona. I specialize in the mechanical testing of Engineering graduate with experience in mechanical testing of additively manufactured metals, metallurgical analysis, and system design. Skilled in optimizing manufacturing processes and developing testing systems to improve accuracy and efficiency. Quick learner, adaptable, and eager to contribute to innovative engineering projects in a fast-paced environment.
+Hi! My name is Mena and I am a Mechanical Engineering graduate from California Polytechnic University, Pomona. I specialize in the mechanical testing of additively manufactured metals, metallurgical analysis, and system design. I am skilled in the development of testing systems to improve accuracy and efficiency, a quick learner, adaptable, and eager to contribute to innovative engineering projects in a fast-paced environment.
 
 ## 📄 Resume
-🔗 [View My Resume](Resume02_01_2025.pdf)
+[View My Resume](Resume02_01_2025.pdf)
 
 ## 📌 Featured Projects
-### 🔧 Precision Inspection Tool
-- Developed using SolidWorks to reduce measurement errors to 0.001 inches.
-- [View Project](projects/precision-inspection-tool/README.md)
+#### Inverted Pendulum Control System
+- [View Project](projects/AM-characterization-protocol/README.md)
 
-### 🏭 Automated Polishing Tool
-- Increased polishing efficiency by 20% and reduced labor costs by 50%.
+#### Automated Polishing Mechanism
+- [View Project](projects/AM-characterization-protocol/README.md)
+
+#### Ductwork and Air Pollution Control System Design
+- [View Project](projects/AM-characterization-protocol/README.md)
+
+#### Thermal Energy Storage (TES) System Design
+- [View Project](projects/AM-characterization-protocol/README.md)
+
+#### Car Suspension FEA Analysis
 - [View Project](projects/automated-polishing-tool/README.md)
 
-### 🛠 AM Characterization Protocol
-- Established industry standards for production readiness.
+#### Car Suspension Model: 2010 Toyota Prius
 - [View Project](projects/AM-characterization-protocol/README.md)
+
 
 ## 📬 Contact
 📧 Email: menaalmandalawi2@yahoo.com 
