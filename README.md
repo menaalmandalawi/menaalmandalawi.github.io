@@ -7,22 +7,22 @@ Hi! My name is Mena and I am a Mechanical Engineering graduate from California P
 
 ## 📌 Featured Projects
 #### Inverted Pendulum Control System
-- [View Project](projects/AM-characterization-protocol/README.md)
+- [View Project](InvertedPendulum.pdf)
 
 #### Automated Polishing Mechanism
 - [View Project](AutomatedPolishing.pdf)
 
 #### Ductwork and Air Pollution Control System Design
-- [View Project](projects/AM-characterization-protocol/README.md)
+- [View Project](Ductwork.pdf)
 
 #### Thermal Energy Storage (TES) System Design
-- [View Project](projects/AM-characterization-protocol/README.md)
+- [View Project](TES.pdf)
 
 #### Car Suspension FEA Analysis
-- [View Project](projects/automated-polishing-tool/README.md)
+- [View Project](FEA.pdf)
 
 #### Car Suspension Model: 2010 Toyota Prius
-- [View Project](projects/AM-characterization-protocol/README.md)
+- [View Project](CarSuspension.pdf)
 
 
 ## 📬 Contact
