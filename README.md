@@ -30,7 +30,7 @@ Hi! My name is Mena and I am a Mechanical Engineering graduate from California P
 
 ☎️ Phone: 840-200-3826
 
-🔗 LinkedIn: https://linkedin.com/in/menaalmandalawi
+🔗 LinkedIn: [https://linkedin.com/in/menaalmandalawi](https://linkedin.com/in/menaalmandalawi)
 
 
 <!--
