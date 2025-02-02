@@ -1,4 +1,4 @@
-# Mena Al Mandalawi's Engineering Portfolio
+## Engineering Portfolio
 
 Hi! My name is Mena and I am a Mechanical Engineering graduate from California Polytechnic University, Pomona. I specialize in the mechanical testing of additively manufactured metals, metallurgical analysis, and system design. I am skilled in the development of testing systems to improve accuracy and efficiency, a quick learner, adaptable, and eager to contribute to innovative engineering projects in a fast-paced environment.
 
