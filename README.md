@@ -3,7 +3,7 @@
 I am a Mechanical Engineering graduate from California Polytechnic University, Pomona. I specialize in the mechanical testing of Engineering graduate with experience in mechanical testing of additively manufactured metals, metallurgical analysis, and system design. Skilled in optimizing manufacturing processes and developing testing systems to improve accuracy and efficiency. Quick learner, adaptable, and eager to contribute to innovative engineering projects in a fast-paced environment.
 
 ## 📄 Resume
-🔗 [View My Resume](resume.pdf)
+🔗 [View My Resume](Resume-02_01_25.pdf)
 
 ## 📌 Featured Projects
 ### 🔧 Precision Inspection Tool
